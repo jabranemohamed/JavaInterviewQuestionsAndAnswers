@@ -270,17 +270,5 @@ Available in the resources for the course
 
 ### What you can do next?
 - [Design Patterns] (https://www.youtube.com/watch?v=f5Rzr5mVNbY)
-- [Maven] (https://courses.in28minutes.com/p/maven-tutorial-for-beginners-in-5-steps)
-- [JSP Servlets] (https://www.youtube.com/watch?v=Vvnliarkw48)
 - [Spring MVC] (https://www.youtube.com/watch?v=BjNhGaZDr0Y)
 
-### Troubleshooting
-- Refer our TroubleShooting Guide - https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
-
-## Youtube Playlists - 500+ Videos
-
-[Click here - 30+ Playlists with 500+ Videos on Spring, Spring Boot, REST, Microservices and the Cloud](https://www.youtube.com/user/rithustutorials/playlists?view=1&sort=lad&flow=list)
-
-## Keep Learning in28Minutes
-
-in28Minutes is creating amazing solutions for you to learn Spring Boot, Full Stack and the Cloud - Docker, Kubernetes, AWS, React, Angular etc. - [Check out all our courses here](https://github.com/in28minutes/learn)
